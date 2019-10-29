@@ -77,13 +77,14 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
-    "pwa-switcher": false
+    "pwa-switcher": false,
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Terrordome Music Publishing, LLC",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
