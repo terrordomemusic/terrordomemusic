@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-10-28_2030",
+    "name": "Terrordome Music Publishing, LLC",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -59,7 +59,25 @@
       }
     ],
     "uniqCompNum": 1,
-    "versionPublish": "4.11.2"
+    "versionPublish": "4.11.2",
+    "noImageResize": "",
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
+    "PWA": {
+      "enabled": false
+    },
+    "robotsSwitcher": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon.ico",
+    "": "on",
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": "undefined",
+    "pwa-switcher": false
   },
   "pages": {
     "index.html": {
